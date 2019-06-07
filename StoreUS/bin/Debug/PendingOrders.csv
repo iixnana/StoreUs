@@ -1,0 +1,5 @@
+ID,Date,Buyer Title,Buyer Address,Item Ordered,Quantity,Payment,Status,Details
+11,2019-05-22 00:00:00,Rimi,Vokieciu g. 5,2 ,500 ,950,In progress,
+12,2019-05-22 00:00:00,Maxima,Barsausko g. 10,3 4 ,1 500 ,501,In progress,
+15,2019-05-22 00:00:00,Maxima,Barsausko g. 5,1 2 ,1000 1000 ,5500,In progress,
+16,2019-05-22 00:00:00,Maxima,Barsausko g. 5,1 2 ,1000 1000 ,5500,In progress,

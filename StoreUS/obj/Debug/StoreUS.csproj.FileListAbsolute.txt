@@ -1,0 +1,148 @@
+C:\Users\Matas\Documents\Visual Studio 2015\Projects\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+C:\Users\Matas\Documents\Visual Studio 2015\Projects\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+C:\Users\Matas\Documents\Visual Studio 2015\Projects\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+C:\Users\Matas\Documents\Visual Studio 2015\Projects\StoreUS\StoreUS\obj\Debug\StoreUS.csprojResolveAssemblyReference.cache
+C:\Users\Matas\Documents\Visual Studio 2015\Projects\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+C:\Users\Matas\Documents\Visual Studio 2015\Projects\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+C:\Users\Matas\Documents\Visual Studio 2015\Projects\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.Cache
+C:\Users\Matas\Documents\Visual Studio 2015\Projects\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+C:\Users\Matas\Documents\Visual Studio 2015\Projects\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
+C:\Users\Matas\Documents\Visual Studio 2015\Projects\StoreUS\StoreUS\bin\Debug\Items.xml
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\bin\Debug\Items.xml
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\obj\Debug\StoreUS.csprojAssemblyReference.cache
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.cache
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.CoreCompileInputs.cache
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\bin\Debug\Items.xml
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\obj\Debug\StoreUS.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+C:\Users\Lenovo\Downloads\StoreUS-0416\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\bin\Debug\Items.xml
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\obj\Debug\StoreUS.csprojAssemblyReference.cache
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.cache
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.CoreCompileInputs.cache
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+C:\Users\nedkas\Downloads\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\obj\Debug\StoreUS.csprojAssemblyReference.cache
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\bin\Debug\Items.xml
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.cache
+E:\University\6 semestras\Inzinerija\StoreUS_0417\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.CoreCompileInputs.cache
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\bin\Debug\Items.xml
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\obj\Debug\StoreUS.csprojAssemblyReference.cache
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.cache
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.CoreCompileInputs.cache
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS_0506\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\bin\Debug\Items.xml
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\obj\Debug\StoreUS.csprojAssemblyReference.cache
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.cache
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.CoreCompileInputs.cache
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS_0507\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.Login.resources
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.ItemAdd.resources
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.ItemView.resources
+C:\Users\Lenovo\Documents\StoreUS\StoreUS\obj\Debug\StoreUS.POView.resources
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.csprojAssemblyReference.cache
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.ItemAdd.resources
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.ItemView.resources
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.Login.resources
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.POView.resources
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.cache
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.CoreCompileInputs.cache
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\bin\Debug\af\StoreUS.resources.dll
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\bin\Debug\en\StoreUS.resources.dll
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.af.resources
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.en.resources
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\af\StoreUS.resources.dll
+E:\University\6 semestras\Inzinerija\StoreUS21\StoreUS\StoreUS\obj\Debug\en\StoreUS.resources.dll
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\bin\Debug\af\StoreUS.resources.dll
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\bin\Debug\en\StoreUS.resources.dll
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.csprojAssemblyReference.cache
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.ItemAdd.resources
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.ItemView.resources
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.POView.resources
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.af.resources
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.en.resources
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.cache
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.CoreCompileInputs.cache
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\af\StoreUS.resources.dll
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\en\StoreUS.resources.dll
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+E:\University\6 semestras\Inzinerija\StoreUS (1)\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\bin\Debug\StoreUS.exe.config
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\bin\Debug\StoreUS.exe
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\bin\Debug\StoreUS.pdb
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\bin\Debug\af\StoreUS.resources.dll
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\bin\Debug\en\StoreUS.resources.dll
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.resources
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.ItemAdd.resources
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.ItemView.resources
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.POView.resources
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.af.resources
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.Form1.en.resources
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\af\StoreUS.resources.dll
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\en\StoreUS.resources.dll
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.exe
+C:\Users\Lenovo\Desktop\StoreUS\StoreUS\obj\Debug\StoreUS.pdb
